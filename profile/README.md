@@ -1,6 +1,6 @@
 # Just Devs Baianos ☀️
 
-Somos um pequeno grupo de desenvolvedores que mora/nasceu na Bahia. Criamos essa organização pra ter um lugar para construir software open source de um jeito leve e principalmente, pra afiar nossas próprias habilidades. Nada muito sério, mas sempre feito com algum nível de cuidado.
+Somos um pequeno grupo de desenvolvedores na Bahia. Criamos essa organização pra ter um lugar para construir software open source de um descompromissado. Nada muito sério, mas sempre feito com algum nível de cuidado.
 
 ## 💻 Tecnologias
 
@@ -15,6 +15,8 @@ Algumas coisas que têm rolado por aqui ultimamente:
 - E qualquer outra coisa... um dia a gente vai conseguir fugir do JS, mas não aconteceu ainda.
 
 ## 📁 Alguns Projetos
+
+> warning: projetos em progresso são marcados com `wip`, já os pausados por tempo indefinido são marcados como `hiatus`
 
 > Dá uma olhada no que já tá rolando por aqui:
 
